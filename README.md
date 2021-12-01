@@ -1,6 +1,6 @@
 # Algo
 Lien diapo : https://docs.google.com/presentation/d/1JTva-k6z_31c7iJ-sBH0Up_vdzijdDzuNxnDZWgUvtI/edit?usp=sharing
-test de positionnement sortie : https://docs.google.com/forms/d/e/1FAIpQLSeRi0_UHQ1jqeQvt843_uIt_ngRto9A1FwRRBmb3zq6ZhnmzA/viewform?usp=sf_link
+test de positionnement sortie : https://docs.google.com/forms/d/e/1FAIpQLSd1OAbQAG1HuobuJ1L7VlT0NVi48quboftpr5CwumiFzxFDqA/viewform?usp=sf_link
 # Linux
 Lien diapo machine virtuelle : https://docs.google.com/presentation/d/1PGeRmYzsfxj9bm1mv-VqGdkzNRWh0P1oVx6DNLhLNS4/edit?usp=sharing
 Lien diapo : https://docs.google.com/presentation/d/1GxKEAVaOqbPkV_deX9H4Non87af4V9NXCA44mEaVNy8/edit?usp=sharing
