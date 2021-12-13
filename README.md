@@ -9,3 +9,6 @@ Lien test de positionnement Linux : https://docs.google.com/forms/d/e/1FAIpQLSc0
 # Versionning
 Lien diapo : https://docs.google.com/presentation/d/1-2P55Mt3wN5oOjLIwqn53eEG8XywAhs85jSaJDV9p-E/edit?usp=sharing
 Lien test de positionnement versionning : https://docs.google.com/forms/d/e/1FAIpQLSduyvH_OUfxRFtTCOr0fLFpR_qYO7L2pA1vAy6BCJ4UZnpt-A/viewform?usp=sf_link
+
+# Typescript
+Lien diapo POO : https://docs.google.com/presentation/d/1lFb3hNHON1urRHV-1WWFoXeeWhI9zXYQCu23EQzUKxQ/edit?usp=sharing
