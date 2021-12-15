@@ -1,14 +1,15 @@
 # Algo
 Lien diapo : https://docs.google.com/presentation/d/1JTva-k6z_31c7iJ-sBH0Up_vdzijdDzuNxnDZWgUvtI/edit?usp=sharing
-test de positionnement sortie : https://docs.google.com/forms/d/e/1FAIpQLSd1OAbQAG1HuobuJ1L7VlT0NVi48quboftpr5CwumiFzxFDqA/viewform?usp=sf_link
+
 # Linux
 Lien diapo machine virtuelle : https://docs.google.com/presentation/d/1PGeRmYzsfxj9bm1mv-VqGdkzNRWh0P1oVx6DNLhLNS4/edit?usp=sharing
 Lien diapo : https://docs.google.com/presentation/d/1GxKEAVaOqbPkV_deX9H4Non87af4V9NXCA44mEaVNy8/edit?usp=sharing
-Lien test de positionnement Linux : https://docs.google.com/forms/d/e/1FAIpQLSc0AeFbl7FTFOK1IA6qeHS9-VOMrHD1eyAj9Lj09EOXwzA-nw/viewform?usp=sf_link
 
 # Versionning
 Lien diapo : https://docs.google.com/presentation/d/1-2P55Mt3wN5oOjLIwqn53eEG8XywAhs85jSaJDV9p-E/edit?usp=sharing
-Lien test de positionnement versionning : https://docs.google.com/forms/d/e/1FAIpQLSduyvH_OUfxRFtTCOr0fLFpR_qYO7L2pA1vAy6BCJ4UZnpt-A/viewform?usp=sf_link
 
 # Typescript
 Lien diapo POO : https://docs.google.com/presentation/d/1lFb3hNHON1urRHV-1WWFoXeeWhI9zXYQCu23EQzUKxQ/edit?usp=sharing
+
+# Angular
+A voir pendant les vacances en reprenant le projet angular : https://www.youtube.com/watch?v=IWXzyV4L6BU
