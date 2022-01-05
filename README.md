@@ -13,3 +13,7 @@ Lien diapo POO : https://docs.google.com/presentation/d/1lFb3hNHON1urRHV-1WWFoXe
 
 # Angular
 A voir pendant les vacances en reprenant le projet angular : https://www.youtube.com/watch?v=IWXzyV4L6BU
+Lien diapo : https://docs.google.com/presentation/d/15AF0GWp_K4JyIpgN3uZmeE0SAEzd7q0rYuVl_zyQ760/edit?usp=sharing
+
+
+
