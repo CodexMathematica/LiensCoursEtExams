@@ -15,5 +15,7 @@ Lien diapo POO : https://docs.google.com/presentation/d/1lFb3hNHON1urRHV-1WWFoXe
 A voir pendant les vacances en reprenant le projet angular : https://www.youtube.com/watch?v=IWXzyV4L6BU
 Lien diapo : https://docs.google.com/presentation/d/15AF0GWp_K4JyIpgN3uZmeE0SAEzd7q0rYuVl_zyQ760/edit?usp=sharing
 
-
+# REGEX
+Lien test entrée : https://docs.google.com/forms/d/e/1FAIpQLSddsf9Aq4tg-yfWpvxsnxOFR-iLVeyDlsZkjrPlX7iF3wfokw/viewform?usp=sf_link
+Lien diapo : https://docs.google.com/presentation/d/1NbTCiksvrY63BkfD1eZcljEbz8riyze0_WwCtvbiGEo/edit?usp=sharing
 
