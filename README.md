@@ -16,6 +16,5 @@ A voir pendant les vacances en reprenant le projet angular : https://www.youtube
 Lien diapo : https://docs.google.com/presentation/d/15AF0GWp_K4JyIpgN3uZmeE0SAEzd7q0rYuVl_zyQ760/edit?usp=sharing
 
 # REGEX
-Lien test entrée : https://docs.google.com/forms/d/e/1FAIpQLSddsf9Aq4tg-yfWpvxsnxOFR-iLVeyDlsZkjrPlX7iF3wfokw/viewform?usp=sf_link
 Lien diapo : https://docs.google.com/presentation/d/1NbTCiksvrY63BkfD1eZcljEbz8riyze0_WwCtvbiGEo/edit?usp=sharing
-Lien test sortie : https://docs.google.com/forms/d/e/1FAIpQLSd4KdGPUEfy2wo7QykQfOxuJVH70QSf7BVWuNAZtmL8BZ8V4Q/viewform?usp=sf_link
+Lien diapo et correction : https://docs.google.com/presentation/d/1M_JeIhii_NLQFJnMiDIRDtL6bnd3MIAmaXwncw7cHts/edit?usp=sharing
