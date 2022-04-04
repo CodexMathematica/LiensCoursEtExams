@@ -22,3 +22,4 @@ Lien diapo et correction : https://docs.google.com/presentation/d/1M_JeIhii_NLQF
 # Composer
 Lien Test entrée : https://docs.google.com/forms/d/e/1FAIpQLSdjgMGpeEgKBEv9aYQNcO-YWyUlXjgYIvLotPy-SBbVOW2iSg/viewform?usp=sf_link
 Lien diapo : https://docs.google.com/presentation/d/1N1RYL0yf_78ZsHCJedvGrf8w5hzj4npTI2TJ-RigyHQ/edit?usp=sharing
+Lien Test sortie : https://docs.google.com/forms/d/e/1FAIpQLSeAqwnpiHcqdWkKOWu-Pl2DqxXhFl64LO1Dx5JB2qSuTz8sTA/viewform?usp=sf_link
