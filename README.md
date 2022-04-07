@@ -23,4 +23,6 @@ Lien diapo et correction : https://docs.google.com/presentation/d/1M_JeIhii_NLQF
 Lien diapo : https://docs.google.com/presentation/d/1N1RYL0yf_78ZsHCJedvGrf8w5hzj4npTI2TJ-RigyHQ/edit?usp=sharing
 
 # Symfony
-Lien test d'entrée : https://docs.google.com/forms/d/e/1FAIpQLSdxzctxbNuBGX16bTr28SE6aVpV6QQW9GLBJNOkvhaNYGtP1g/viewform?usp=sf_link
+Lien Diapo intro : https://docs.google.com/presentation/d/16nY4AepsqEUjdvH8gZeL1l2BmUdcLlMX8vbeloBl3_Y/edit?usp=sharing
+Lien diapo Twig : https://docs.google.com/presentation/d/1lTlz3YJuQCz9nibrQe6fNQEE5AO_eOz1guRDXszxamY/edit?usp=sharing
+Lien diapo Doctrine : https://docs.google.com/presentation/d/13UDn809KoXfEC2QWcdjm94zgnhei_JpXYmnDm3tWaVQ/edit?usp=sharing
