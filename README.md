@@ -22,5 +22,5 @@ Lien diapo et correction : https://docs.google.com/presentation/d/1M_JeIhii_NLQF
 # Composer
 Lien diapo : https://docs.google.com/presentation/d/1N1RYL0yf_78ZsHCJedvGrf8w5hzj4npTI2TJ-RigyHQ/edit?usp=sharing
 
-# PHP
-Lien test de sortie : https://docs.google.com/forms/d/e/1FAIpQLSeDRTVPFuyAdmWQfGaa3LD47h4aZXNWoogO_JM17eZEmFd1sQ/viewform?usp=sf_link
+# Symfony
+Lien test d'entrée : https://docs.google.com/forms/d/e/1FAIpQLSdxzctxbNuBGX16bTr28SE6aVpV6QQW9GLBJNOkvhaNYGtP1g/viewform?usp=sf_link
